@@ -5,6 +5,31 @@ Learn OpenCV  : C++ and Python Examples. You can find the details at [LearnOpenC
 
 | Blog Post        | |
 | ------------- |:-------------|
+|[OpenCV QR Code Scanner (C++ and Python)](https://www.learnopencv.com/opencv-qr-code-scanner-c-and-python/) | [Code](https://github.com/spmallick/learnopencv/tree/master/QRCode-OpenCV) |
+|[Install OpenCV 3.4.4 on Windows (C++ and Python)](https://www.learnopencv.com/install-opencv-3-4-4-on-windows/) | [Code](https://github.com/spmallick/learnopencv/tree/master/InstallScripts/Windows-3) |
+|[Install OpenCV 3.4.4 on Ubuntu 16.04 (C++ and Python)](https://www.learnopencv.com/install-opencv-3-4-4-on-ubuntu-16-04/) | [Code](https://github.com/spmallick/learnopencv/blob/master/InstallScripts/installOpenCV-3-16-04.sh) |
+|[Install OpenCV 3.4.4 on Ubuntu 18.04 (C++ and Python)](https://www.learnopencv.com/install-opencv-3-4-4-on-ubuntu-18-04/) | [Code](https://github.com/spmallick/learnopencv/blob/master/InstallScripts/installOpenCV-3-18-04.sh) |
+|[Universal Sentence Encoder](https://www.learnopencv.com/universal-sentence-encoder) | [Code](https://github.com/spmallick/learnopencv/blob/master/Universal-Sentence-Encoder) |
+|[Install OpenCV 4 on Raspberry Pi](https://www.learnopencv.com/install-opencv-4-on-raspberry-pi/) | [Code](https://github.com/spmallick/learnopencv/blob/master/InstallScripts/installOpenCV-raspberry-pi.sh) |
+|[Install OpenCV 4 on Windows (C++ and Python)](https://www.learnopencv.com/install-opencv-4-on-windows/) | [Code](https://github.com/spmallick/learnopencv/tree/master/InstallScripts/Windows-4) |
+|[Hand Keypoint Detection using Deep Learning and OpenCV](https://www.learnopencv.com/hand-keypoint-detection-using-deep-learning-and-opencv/) | [Code](https://github.com/spmallick/learnopencv/tree/master/HandPose)|
+|[Deep learning based Object Detection and Instance Segmentation using Mask R-CNN in OpenCV (Python / C++)](https://www.learnopencv.com/deep-learning-based-object-detection-and-instance-segmentation-using-mask-r-cnn-in-opencv-python-c/) | [Code](https://github.com/spmallick/learnopencv/tree/master/Mask-RCNN) |
+|[Install OpenCV 4 on Ubuntu 18.04 (C++ and Python)](https://www.learnopencv.com/install-opencv-4-on-ubuntu-18-04/) | [Code](https://github.com/spmallick/learnopencv/blob/master/InstallScripts/installOpenCV-4-18-04.sh) |
+|[Install OpenCV 4 on Ubuntu 16.04 (C++ and Python)](https://www.learnopencv.com/install-opencv-4-on-ubuntu-16-04/) | [Code](https://github.com/spmallick/learnopencv/blob/master/InstallScripts/installOpenCV-4-16-04.sh) |
+|[Multi-Person Pose Estimation in OpenCV using OpenPose](https://www.learnopencv.com/multi-person-pose-estimation-in-opencv-using-openpose/) | [Code](https://github.com/spmallick/learnopencv/tree/master/OpenPose-Multi-Person) |
+|[Heatmap for Logo Detection using OpenCV (Python)](https://www.learnopencv.com/heatmap-for-logo-detection-using-opencv-python/) | [Code](https://github.com/spmallick/learnopencv/tree/master/heatmap)|
+|[Deep Learning based Object Detection using YOLOv3 with OpenCV ( Python / C++ )](https://www.learnopencv.com/deep-learning-based-object-detection-using-yolov3-with-opencv-python-c/) | [Code](https://github.com/spmallick/learnopencv/tree/master/ObjectDetection-YOLO)|
+|[Convex Hull using OpenCV in Python and C++](https://www.learnopencv.com/convex-hull-using-opencv-in-python-and-c/) | [Code](https://github.com/spmallick/learnopencv/tree/master/ConvexHull)|
+|[MultiTracker : Multiple Object Tracking using OpenCV (C++/Python)](https://www.learnopencv.com/multitracker-multiple-object-tracking-using-opencv-c-python/) | [Code](https://github.com/spmallick/learnopencv/tree/master/MultiObjectTracker) |
+|[Convolutional Neural Network based Image Colorization using OpenCV](https://www.learnopencv.com/convolutional-neural-network-based-image-colorization-using-opencv/) | [Code](https://github.com/spmallick/learnopencv/tree/master/Colorization)|
+|[SVM using scikit-learn](https://www.learnopencv.com/svm-using-scikit-learn-in-python/)|[Code](https://github.com/spmallick/learnopencv/tree/master/SVM-using-Python)|
+|[GOTURN: Deep Learning based Object Tracking](https://www.learnopencv.com/goturn-deep-learning-based-object-tracking/) | [Code](https://github.com/spmallick/learnopencv/tree/master/GOTURN)|
+|[Find the Center of a Blob (Centroid) using OpenCV (C++/Python)](https://www.learnopencv.com/find-center-of-blob-centroid-using-opencv-cpp-python/) | [Code](https://github.com/spmallick/learnopencv/tree/master/CenterofBlob)|
+|[Support Vector Machines (SVM)](https://www.learnopencv.com/support-vector-machines-svm/)|[Code](https://github.com/spmallick/learnopencv/tree/master/SVM-using-Python)|
+|[Batch Normalization in Deep Networks](https://www.learnopencv.com/batch-normalization-in-deep-networks/) | [Code](https://github.com/spmallick/learnopencv/tree/master/BatchNormalization)|
+|[Deep Learning based Character Classification using Synthetic Dataset](https://www.learnopencv.com/deep-learning-character-classification-using-synthetic-dataset/) | [Code](https://github.com/spmallick/learnopencv/tree/master/CharClassification)|
+|[Image Quality Assessment : BRISQUE](https://www.learnopencv.com/image-quality-assessment-brisque/)| [Code](https://github.com/spmallick/learnopencv/tree/master/ImageMetrics)|
+|[Understanding AlexNet](https://www.learnopencv.com/understanding-alexnet/)|
 |[Deep Learning based Text Recognition (OCR) using Tesseract and OpenCV](https://www.learnopencv.com/deep-learning-based-text-recognition-ocr-using-tesseract-and-opencv/)| [Code](https://github.com/spmallick/learnopencv/tree/master/OCR)|
 |[Deep Learning based Human Pose Estimation using OpenCV ( C++ / Python )](https://www.learnopencv.com/deep-learning-based-human-pose-estimation-using-opencv-cpp-python/)|[ Code](https://github.com/spmallick/learnopencv/tree/master/OpenPose)|
 |[Number of Parameters and Tensor Sizes in a Convolutional Neural Network (CNN)](https://www.learnopencv.com/number-of-parameters-and-tensor-sizes-in-convolutional-neural-network/)| |
@@ -55,7 +80,7 @@ Learn OpenCV  : C++ and Python Examples. You can find the details at [LearnOpenC
 |[Object Tracking using OpenCV (C++/Python)](http://www.learnopencv.com/object-tracking-using-opencv-cpp-python/) | [Code](https://github.com/spmallick/learnopencv/tree/master/tracking) |
 |[Handwritten Digits Classification : An OpenCV ( C++ / Python ) Tutorial](http://www.learnopencv.com/handwritten-digits-classification-an-opencv-c-python-tutorial/) | [Code](https://github.com/spmallick/learnopencv/tree/master/digits-classification) |
 |[Training a better Haar and LBP cascade based Eye Detector using OpenCV](http://www.learnopencv.com/training-better-haar-lbp-cascade-eye-detector-opencv/) | |
-|[Deep Learning Book Gift Recipients](http://www.learnopencv.com/deep-learning-book-gift-recipients/) | | 
+|[Deep Learning Book Gift Recipients](http://www.learnopencv.com/deep-learning-book-gift-recipients/) | |
 |[Minified OpenCV Haar and LBP Cascades](http://www.learnopencv.com/minified-opencv-haar-and-lbp-cascades/) | [Code](https://github.com/spmallick/learnopencv/tree/master/ninjaEyeDetector)|
 |[Deep Learning Book Gift](http://www.learnopencv.com/deep-learning-book-gift/) | |
 |[Histogram of Oriented Gradients](http://www.learnopencv.com/histogram-of-oriented-gradients/) | |
